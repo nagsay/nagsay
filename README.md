@@ -13,7 +13,7 @@
 
 
 <p align="center">
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagsay&layout=compact&langs_count=4&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nagsay&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
 <div align="center"> 
