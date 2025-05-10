@@ -68,27 +68,3 @@
 
 ###
 \`\`\`
-
-## Melhorias realizadas:
-
-1. **Adicionei links aos badges de redes sociais**
-   - Agora cada badge é clicável e abre em uma nova aba
-   - Substitua os links de exemplo pelos seus links reais
-
-2. **Melhorei a animação da cobra**
-   - Adicionei suporte para tema claro/escuro usando a tag `<picture>`
-   - Isso faz com que a animação se adapte ao tema do GitHub do visitante
-
-3. **Melhorei os textos alternativos**
-   - Adicionei descrições mais detalhadas para melhorar a acessibilidade
-
-4. **Mantive o layout original**
-   - Preservei a estrutura e estilo que você já tinha
-
-## O que você precisa fazer:
-
-1. Substitua os links de exemplo (como `https://www.youtube.com/@jhenniferferreira`) pelos seus links reais
-2. Atualize seu endereço de e-mail em `mailto:seuemail@gmail.com`
-3. Verifique se o nome de usuário `nagsay` está correto em todas as URLs
-
-Isso tornará seu perfil mais profissional e interativo!
