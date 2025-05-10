@@ -1,4 +1,4 @@
-<h2 align="left">Olá 👋! Eu sou Jhennifer Ferreira, sou dev aluna do IF</h2>
+<h2 align="left">Olá! Eu sou Jhennifer Ferreira, sou dev em desenvolvimento</h2>
 
 ###
 
@@ -55,15 +55,5 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nagsay/nagsay/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nagsay/nagsay/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/nagsay/nagsay/output/github-contribution-grid-snake.svg">
-</picture>
 
 ###
