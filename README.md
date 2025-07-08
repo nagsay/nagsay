@@ -1,4 +1,4 @@
-<h2 align="left">Olá! Eu sou Jhennifer Ferreira, sou dev em desenvolvimento</h2>
+<h2 align="left">Olá! Eu sou Jhennifer Ferreira, sou Dev Fullstack em desenvolvimento</h2>
 
 ###
 
